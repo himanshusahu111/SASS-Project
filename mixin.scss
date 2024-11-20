@@ -1,0 +1,8 @@
+@mixin paddingtop{
+    padding-top: $padding-top-10;
+    padding-bottom: $padding-bottom-10;
+}
+@mixin margintop{
+    margin-top: $margin-top-10;
+    margin-bottom: $margin-bottom-10;
+}
